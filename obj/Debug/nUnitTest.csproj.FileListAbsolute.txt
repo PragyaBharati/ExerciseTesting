@@ -1,0 +1,15 @@
+D:\PragyaA\Day-45\nUnitTest\nUnitTest\bin\Debug\nUnitTest.exe.config
+D:\PragyaA\Day-45\nUnitTest\nUnitTest\bin\Debug\nUnitTest.exe
+D:\PragyaA\Day-45\nUnitTest\nUnitTest\bin\Debug\nUnitTest.pdb
+D:\PragyaA\Day-45\nUnitTest\nUnitTest\bin\Debug\nunit.framework.dll
+D:\PragyaA\Day-45\nUnitTest\nUnitTest\bin\Debug\nunit.framework.xml
+D:\PragyaA\Day-45\nUnitTest\nUnitTest\obj\Debug\nUnitTest.csprojAssemblyReference.cache
+D:\PragyaA\Day-45\nUnitTest\nUnitTest\obj\Debug\nUnitTest.csproj.CoreCompileInputs.cache
+D:\PragyaA\Day-45\nUnitTest\nUnitTest\obj\Debug\nUnitTest.csproj.CopyComplete
+D:\PragyaA\Day-45\nUnitTest\nUnitTest\obj\Debug\nUnitTest.exe
+D:\PragyaA\Day-45\nUnitTest\nUnitTest\obj\Debug\nUnitTest.pdb
+D:\PragyaA\Day-45\nUnitTest\nUnitTest\bin\Debug\NUnit3.TestAdapter.dll
+D:\PragyaA\Day-45\nUnitTest\nUnitTest\bin\Debug\NUnit3.TestAdapter.pdb
+D:\PragyaA\Day-45\nUnitTest\nUnitTest\bin\Debug\nunit.engine.dll
+D:\PragyaA\Day-45\nUnitTest\nUnitTest\bin\Debug\nunit.engine.api.dll
+D:\PragyaA\Day-45\nUnitTest\nUnitTest\bin\Debug\nunit.engine.core.dll
